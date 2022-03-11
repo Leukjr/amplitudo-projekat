@@ -1,0 +1,15 @@
+.idCard {
+  border: 1px solid;
+  margin-bottom: 7%;
+  text-align: center;
+}
+
+.imgContainer {
+  grid-column: 2 / 3;
+  grid-row: 1 / 2;
+  justify-self: end;
+}
+
+.text {
+  grid-column: 1 / 2;
+}
